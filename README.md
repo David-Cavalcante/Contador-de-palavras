@@ -46,3 +46,4 @@ contador-de-palavras/
 - `script.js`: Arquivo JavaScript que contém a lógica de contagem de palavras.
 
 ## Conte já as palavras para o seu texto.
+https://david-cavalcante.github.io/Contador-de-palavras/
