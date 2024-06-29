@@ -40,7 +40,9 @@ contador-de-palavras/
 └── script.js
 
 °`index.html`: Arquivo HTML principal que contém a estrutura da aplicação.
+
 °`style.css`: Arquivo CSS que contém os estilos da aplicação.
+
 °`script.js`: Arquivo JavaScript que contém a lógica de contagem de palavras.
 
 ## Conte já as palavras para o seu texto.
