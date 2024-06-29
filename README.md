@@ -32,17 +32,17 @@ Este é um projeto simples de Contador de Palavras desenvolvido em HTML, CSS e J
 
 5. A frequência de cada palavra será exibida em uma tabela abaixo.
 
-##Estrutura do Projeto
+## Estrutura do Projeto
 
 contador-de-palavras/
 ├── index.html
 ├── style.css
 └── script.js
 
-°`index.html`: Arquivo HTML principal que contém a estrutura da aplicação.
+- `index.html`: Arquivo HTML principal que contém a estrutura da aplicação.
 
-°`style.css`: Arquivo CSS que contém os estilos da aplicação.
+- `style.css`: Arquivo CSS que contém os estilos da aplicação.
 
-°`script.js`: Arquivo JavaScript que contém a lógica de contagem de palavras.
+- `script.js`: Arquivo JavaScript que contém a lógica de contagem de palavras.
 
 ## Conte já as palavras para o seu texto.
