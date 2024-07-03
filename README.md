@@ -1,6 +1,6 @@
 # Contador de Palavras
 
-(contadordepalavras.png)
+![contador](contadordepalavras.png)
 
 
 Este é um projeto simples de Contador de Palavras desenvolvido em HTML, CSS e JavaScript. Ele permite que os usuários insiram um texto e obtenham a contagem de palavras e a frequência de cada palavra no texto.
